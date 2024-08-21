@@ -1,0 +1,16 @@
+.moon-icone{
+    font-size: 50px;
+    cursor: pointer;
+}
+body{
+    background-color: rgb(197, 194, 230);
+    padding: 0.5rem;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+}
+.card{
+    background-color: rgb(204, 204, 228);
+}
